@@ -1,0 +1,30 @@
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\refint\aula9.2.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula9.2\aula9.2\obj\Debug\net6.0\ref\aula9.2.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\bin\Debug\net6.0\aula9.2.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\refint\aula9.2.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\aula9.2.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula09\aula9.2\aula9.2\obj\Debug\net6.0\ref\aula9.2.dll
