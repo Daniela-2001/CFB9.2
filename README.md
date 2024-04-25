@@ -1,5 +1,6 @@
-Constantes em C#
+Operações de Bitwise
 
+Também chamado de operações de shift ou operadores de shift
 
-Na variável, eu posso inicializar com um valor e depois mudar.
-Na constante, uma vez atribuído o valor, este valor não pode mais mudar. 
+<< dobrar (bitwise para a esquerda dobra)
+>> metade (bitwise para a direita divide por 2)
